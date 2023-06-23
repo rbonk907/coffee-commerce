@@ -14,7 +14,8 @@ const config: GatsbyConfig = {
       options: {
         output: 'config/gatsby-express.json',
       }
-    }
+    },
+    'gatsby-plugin-postcss',
   ],
 }
 
